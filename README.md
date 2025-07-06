@@ -1,4 +1,5 @@
-# 🔍 Python Plagiarism Checker
+# 🔍 Python Plagiarism Detector
+
 
 This is a simple plagiarism checker built using Python's built-in `difflib` library. It compares the contents of two text files and outputs the percentage of similarity between them.
 
